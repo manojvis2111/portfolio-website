@@ -1,7 +1,8 @@
 .contact{
     backdrop-filter: blur(10px);
+    padding-left: 5%;
     font-family: Open Sans,sans-serif;
-    padding: 1rem;
+    
     background-color: #171717;
     font-size: 20px;
     border: 1px solid rgba(0,212,255,1);
@@ -14,6 +15,6 @@
 .contact img{
     border-radius: 50%;
     max-height: 50%;
-    margin-left: 2rem;
+    margin-left: 5%;
     
 }
