@@ -6,7 +6,7 @@ const About = () => {
             <h1>About Me</h1>
             <br />
             <p>
-                My name is Vishnu Manoj, and I'm a third year computer science and math student at the
+                My name is Vishnu Manoj, and I am a third year computer science and math student at the
                 University of Toronto. Computer Science is such a vast field with several interesting areas such as Software Engineering,
                 Artificial Intelligence, and Computer Vision. I am still in the learning stage of my life 
                 and I look forward to  mess around with all the intriguing fields of Computer Science until I 

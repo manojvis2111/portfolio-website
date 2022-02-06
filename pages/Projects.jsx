@@ -7,7 +7,7 @@ const Projects = () =>{
             <h2>Steam Marketplace</h2>
             <p>
                 I along with three other members developed the back end of a digital distribution system for 
-                video games that is very similar to Valve's Corporation's Steam, using Java. Here, users are allowed to 
+                video games that is very similar to Valve Corporations Steam, using Java. Here, users are allowed to 
                 buy or sell access to games.
                 <br /><br />
                 We developed this project over the course of one month using the Scrum Agile Development 
