@@ -1,4 +1,5 @@
 .projects{
+    backdrop-filter: blur(10px);
     font-family: Open Sans,sans-serif;
     padding: 1rem;
     background-color: #171717;
@@ -13,6 +14,7 @@
 
 
 .projects h1 {
+    z-index: 1;
     box-sizing: border-box;
     text-align: center;
     font-size: 40px;
@@ -23,13 +25,15 @@
 }
 
 .projects h2{
+    z-index: 1;
     font-size:30px
 }
 
 .projects p{
     font-size: 20px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+    
     display: block;
     margin-block-start: 1em;
     margin-block-end: 1em;

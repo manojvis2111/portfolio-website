@@ -4,7 +4,7 @@ const Contact = () => {
     return( <div className={styles.contact} id = "contacts">
         <h1>Contacts</h1>
         <p>
-            <h2>Feel free to contact me through any of the following platforms </h2><br />
+            Feel free to contact me through any of the following platforms: <br /><br /><br />
             <a href="https://www.linkedin.com/in/vishnumanoj211101/">
                 <img src="/linkedin.png" alt="" width={100} height={100}/> 
             </a>     
