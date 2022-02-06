@@ -1,0 +1,44 @@
+.projects{
+    font-family: Open Sans,sans-serif;
+    padding: 1rem;
+    background-color: #171717;
+    border: 1px solid rgba(0,212,255,1);
+    border-radius: 30px;
+    margin: 10rem 2rem;
+    width: 60vw;
+    align-items: right;
+    margin-left: 30%;
+}
+
+
+
+.projects h1 {
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+    width: 100%;
+    padding-left: 5%;
+    
+}
+
+.projects h2{
+    font-size:30px
+}
+
+.projects p{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: left;
+}
+
+.projects img{
+    margin-left: 100px;
+    border-radius: 50%;
+}

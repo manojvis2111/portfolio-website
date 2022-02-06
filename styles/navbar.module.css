@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #0f0f14;
+    height: 60px;
+    padding: 0px 10px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+	left: 0;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    padding: 0px 10px;
+    font-size: 20px;
+}
+
+.logolink {
+    flex-grow: 1;
+}
